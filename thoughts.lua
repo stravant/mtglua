@@ -33,9 +33,6 @@ end
 -- A MagicPlayer, the wrapper around a player used by a MagicGame
 function MagicPlayer.new(participant)
 	local this = {}
-
-
-
 	return this
 end
 
